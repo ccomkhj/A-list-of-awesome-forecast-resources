@@ -1,6 +1,7 @@
 # A list of awesome forecast resources
 
 Filtering is done completely done by based on my personal standard. (Highly subjective.)
+
 How practical in the production application.
 
 ### Top
@@ -16,7 +17,7 @@ How practical in the production application.
 - [Solving Real-World Business Problems with Bayesian Modeling](https://www.youtube.com/watch?v=twpZhNqVExc)
 - [Probabilistic demand forecasting at scale](https://www.youtube.com/watch?v=FatXhiybhrw)
 
-### Not recommended
+### Not recommended (but useful for you)
 - [Forecasting Customer Lifetime Value (CLTV) for Marketing Campaigns under Uncertainty with PySTAN](https://www.youtube.com/watch?v=hcQST0RnN_o)
 - [Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48)
 - [Tackling the Cold Start Challenge in Demand Forecasting](https://www.youtube.com/watch?v=dm3lDANtp-0&t=1410s)
