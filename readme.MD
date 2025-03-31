@@ -2,7 +2,7 @@
 
 Filtering is done completely based on my personal standards. (Highly subjective.)
 
-Criteria: **Practicality in production applications.**
+Criteria: **Informative&Practicality in production applications.**
 
 ---
 
@@ -24,12 +24,15 @@ Criteria: **Practicality in production applications.**
 - 🎥 [Boosting Time Series Accuracy: The Power of Ensemble Methods](https://www.youtube.com/watch?v=xnF9QajUzv0)  
 - 🎥 [Solving Real-World Business Problems with Bayesian Modeling](https://www.youtube.com/watch?v=twpZhNqVExc)  
 - 🎥 [Probabilistic demand forecasting at scale](https://www.youtube.com/watch?v=FatXhiybhrw)  
-- 🎥 [Can one do better than XGBoost?](https://www.youtube.com/watch?v=5CWwwtEM2TA)  
+- 🎥 [Can one do better than XGBoost?](https://www.youtube.com/watch?v=5CWwwtEM2TA)
+  - 📄 [Introduction to Boosted Trees](https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf)
+- 🎥 [Decision Trees and Ensemble Methods | Stanford CS229](https://www.youtube.com/watch?v=wr9gUr-eWdA)
 
 ---
 
-## ⚠️ **Not Recommended (But May Be Useful for You)**  
+## ⚠️ **Not Helpful for me (But May Be Useful for You)**  
 
 - 🎥 [Forecasting Customer Lifetime Value (CLTV) for Marketing Campaigns under Uncertainty with PySTAN](https://www.youtube.com/watch?v=hcQST0RnN_o)  
 - 🎥 [Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48)  
 - 🎥 [Tackling the Cold Start Challenge in Demand Forecasting](https://www.youtube.com/watch?v=dm3lDANtp-0&t=1410s)  
+- 📄 [Greedy Function Approximation: A Gradient Boosting Machine](https://jerryfriedman.su.domains/ftp/trebst.pdf)
