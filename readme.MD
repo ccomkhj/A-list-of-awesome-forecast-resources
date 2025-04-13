@@ -27,6 +27,7 @@ Criteria: **Informative&Practicality in production applications.**
 - 🎥 [Can one do better than XGBoost?](https://www.youtube.com/watch?v=5CWwwtEM2TA)
   - 📄 [Introduction to Boosted Trees](https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf)
 - 🎥 [Decision Trees and Ensemble Methods | Stanford CS229](https://www.youtube.com/watch?v=wr9gUr-eWdA)
+- 🎥 [MLBBQ: Are Transformers Effective for Time Series Forecasting?](https://www.youtube.com/watch?v=FIQt6X_wfS0)  
 
 ---
 
