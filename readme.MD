@@ -13,6 +13,7 @@ Criteria: **Informative&Practicality in production applications.**
 - 🎥 [Unlocking the Power of Gradient-Boosted Trees](https://www.youtube.com/watch?v=qGsHlvE8KZM)  
 - 🎥 [How to use Feature Engineering for Machine Learning, Equations](https://www.youtube.com/watch?v=X4pWmkxEikM)  
   - 📄 [An Empirical Analysis of Feature Engineering for Predictive Modeling](https://arxiv.org/pdf/1701.07852)  
+  - 📄 [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)  
 
 ---
 
@@ -28,6 +29,7 @@ Criteria: **Informative&Practicality in production applications.**
   - 📄 [Introduction to Boosted Trees](https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf)
 - 🎥 [Decision Trees and Ensemble Methods | Stanford CS229](https://www.youtube.com/watch?v=wr9gUr-eWdA)
 - 🎥 [MLBBQ: Are Transformers Effective for Time Series Forecasting?](https://www.youtube.com/watch?v=FIQt6X_wfS0)  
+  - 📄 [On performance of temporal aggregation in time series forecasting](https://www.youtube.com/watch?v=Liq1_EUeh4g)
 
 ---
 
