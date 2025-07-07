@@ -13,6 +13,7 @@ Criteria: **Informative&Practicality in production applications.**
 - 🎥 [Unlocking the Power of Gradient-Boosted Trees](https://www.youtube.com/watch?v=qGsHlvE8KZM)  
 - 🎥 [How to use Feature Engineering for Machine Learning, Equations](https://www.youtube.com/watch?v=X4pWmkxEikM)  
   - 📄 [An Empirical Analysis of Feature Engineering for Predictive Modeling](https://arxiv.org/pdf/1701.07852)  
+  - 📄 [Forecasting: Principles and Practice](https://otexts.com/fpp2/)  
   - 📄 [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)  
 
 ---
